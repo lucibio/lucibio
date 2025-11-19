@@ -1,16 +1,19 @@
-## Hi there 👋
+<img align="right" height="200" src="https://imgflip.com/gif/acmout.gif"  />
 
-<!--
-**lucibio/lucibio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h1 align="left">Olá, 👋 sou Lucimar.</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">Sou doutoranda em Ecologia com foco em macrófitas aquáticas. No momento, estou desenvolvendo minha pesquisa, realizando coletas em campo e trabalhando com análises estatísticas.</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
+</div>
+
+###
